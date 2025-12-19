@@ -1,0 +1,8 @@
+{
+  "name": "MindShake.ai",
+  "description": "A high-security, agentic memory platform for enterprises using Gemini 3 Flash for sub-second PII-aware synthesis and hybrid search.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
